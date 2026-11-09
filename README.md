@@ -3,20 +3,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project predicts whether a customer might be interested in vehicle insurance.
+Imagine an insurance company with thousands of customers. It wants to understand who might be interested in vehicle insurance. I built a system that uses past customer data to predict possible interest. The challenge was not only making a prediction, but organizing the data and making the model usable outside a notebook.
 
-### Why is it interesting?
-A useful AI application needs reliable data preparation, testing and deployment, not only a model.
-
-### How does it work?
-The system prepares customer data, trains and checks a model, and makes predictions available in an application.
-
-### Real-life example
-An insurance team explores which customers may be interested in an offer. The prediction supports analysis, not eligibility decisions.
-
-### What did I learn?
-I learned to connect machine learning with data pipelines, automated checks, Docker, and cloud deployment.
+The project prepares information, trains and checks a model, then makes predictions available through an application. I also worked with Docker, automated checks, and cloud deployment tools. I learned how the different parts of a machine learning project fit together, from raw data to a working service. These predictions support analysis, not insurance eligibility decisions.
 
 ---
 
