@@ -1,4 +1,12 @@
 
+## In Simple Words
+
+This project shows how to build and run a model that predicts whether a customer may be interested in vehicle insurance. It organizes data preparation, model training, checks, and delivery as one repeatable process.
+
+**Real-life example:** Imagine an insurance team wants to understand likely interest in an offer. The system prepares customer information, trains a model, and makes predictions available through an application. It does not decide whether someone should receive insurance.
+
+---
+
 # Vehicle Insurance Data Pipeline (End-to-End MLOps)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
