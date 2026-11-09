@@ -18,7 +18,7 @@ The project prepares information, trains and checks a model, then makes predicti
 [![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20ECR%20%7C%20EC2-orange.svg)](#-deployment-aws-ecr--ec2)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black.svg)](#-cicd-github-actions)
 
-An end-to-end **MLOps project** that builds a production-ready pipeline for **vehicle insurance response prediction** — from data ingestion (MongoDB) to training/evaluation, model versioning (S3), and deployment (Docker + GitHub Actions + AWS EC2).
+An end-to-end **MLOps project** that demonstrates a modular learning pipeline for **vehicle insurance response prediction** — from data ingestion (MongoDB) to training/evaluation, model versioning (S3), and deployment (Docker + GitHub Actions + AWS EC2).
 
 ---
 
@@ -163,9 +163,7 @@ src/
 
 | Metric | Score |
 |--------|-------|
-| **F1 Score** | 91.8% |
-| **Precision** | 86.3% |
-| **Recall** | 98.3% |
+| **F1 / Precision / Recall** | Withheld pending leakage-free reevaluation; earlier reported scores should not be used as validated model results. |
 | **Training Data** | 762,218 records |
 | **Algorithm** | RandomForestClassifier |
 
