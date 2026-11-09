@@ -1,13 +1,27 @@
 
-## In Simple Words
+# Vehicle Insurance Data Pipeline (End-to-End MLOps)
 
-This project shows how to build and run a model that predicts whether a customer may be interested in vehicle insurance. It organizes data preparation, model training, checks, and delivery as one repeatable process.
+## Project Summary
 
-**Real-life example:** Imagine an insurance team wants to understand likely interest in an offer. The system prepares customer information, trains a model, and makes predictions available through an application. It does not decide whether someone should receive insurance.
+### What is this project?
+This project predicts whether a customer might be interested in vehicle insurance.
+
+### Why is it interesting?
+A useful AI application needs reliable data preparation, testing and deployment, not only a model.
+
+### How does it work?
+The system prepares customer data, trains and checks a model, and makes predictions available in an application.
+
+### Real-life example
+An insurance team explores which customers may be interested in an offer. The prediction supports analysis, not eligibility decisions.
+
+### What did I learn?
+I learned to connect machine learning with data pipelines, automated checks, Docker, and cloud deployment.
 
 ---
 
-# Vehicle Insurance Data Pipeline (End-to-End MLOps)
+## Technical Documentation
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
